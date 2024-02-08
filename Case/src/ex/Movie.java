@@ -11,4 +11,7 @@ public Movie(String title,String director) {
 public String getTittle() {
 	return this.title;
 }
+public String get_director() {
+	return this.director;
+}
 }
